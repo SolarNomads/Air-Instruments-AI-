@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Air Harp 1st version",
+  "description": "A touchless musical instrument powered by computer vision and Gemini AI. Use your hands to pluck virtual strings in the air.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
